@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bpottinger
+- 👋 Hi, I’m Bianca @bpottinger
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on ...
